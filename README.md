@@ -1,6 +1,7 @@
 ![banner](https://raw.githubusercontent.com/MykooApplications/MykooApplications/main/Black%20Technology%20LinkedIn%20Banner.png)
 
-https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - 👋 Hi, I’m Roshan Mykoo (@MykooApplications)
 - 👀 I’m interested in ... iOS & Android Devlopment
