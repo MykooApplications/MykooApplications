@@ -18,8 +18,6 @@
 - 💡 I’m looking to collaborate on ... Mobile Apps, Websites, & Games!
 - 📫 How to reach me ... email: roshanjmykoo@gmail.com
 
-<h1>h1</h1>
-<p>pppppppppppppppppppppp</p>
 
 
 [![Roshan’s github stats](https://github-readme-stats.vercel.app/api?username=MykooApplications)](https://github.com/MykooApplications)
@@ -30,3 +28,10 @@
 MykooApplications/MykooApplications is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1>Projects</h1>
+<h2>ASDF</h2>
+<h3>ASDF</h3>
+<h4>ASDF</h4>
+<h5>ASDF</h5>
+<h6>ASDF</h6>
