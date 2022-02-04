@@ -1,5 +1,6 @@
 ![banner](https://raw.githubusercontent.com/MykooApplications/MykooApplications/main/Black%20Technology%20LinkedIn%20Banner.png)
 
+<h2>Technical Skills</h2>
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,11 +33,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Projects</h1>
 The following are listings are my public projects that are either open for coloboration or completely free for academic use.
 <h2>Simple SwiftUI Calculator</h2>
-<p>ASDFASDFASDFASDFASDF A asdfasdfasdf asdfas dfasdf asdf asdfasdf asdfasd asf sad fasdfef. das df asd  asdfa
-sdfasdfas
-dfasdfasdf
-asdfas
-dfasdfasdf aefasdf </p>
+
 <!-- <h3>ASDF</h3>
 <h4>ASDF</h4>
 <h5>ASDF</h5>
