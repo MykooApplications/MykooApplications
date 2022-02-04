@@ -30,8 +30,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Projects</h1>
-<h2>ASDF</h2>
-<h3>ASDF</h3>
+The following are listings are my public projects that are either open for coloboration or completely free for academic use.
+<h2>Simple SwiftUI Calculator</h2>
+<p>ASDFASDFASDFASDFASDF A asdfasdfasdf asdfas dfasdf asdf asdfasdf asdfasd asf sad fasdfef. das df asd  asdfa
+sdfasdfas
+dfasdfasdf
+asdfas
+dfasdfasdf aefasdf </p>
+<!-- <h3>ASDF</h3>
 <h4>ASDF</h4>
 <h5>ASDF</h5>
-<h6>ASDF</h6>
+<h6>ASDF</h6> -->
