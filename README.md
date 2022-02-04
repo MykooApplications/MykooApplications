@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAE3aktU2jE/share/preview?token=lbGHvTCzAHWlrBNJP-tE-Q&role=EDITOR&utm_content=DAE3aktU2jE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![banner](https://raw.githubusercontent.com/MykooApplications/MykooApplications/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 - 👋 Hi, I’m @MykooApplications
 - 👀 I’m interested in ... Mobile Development in iOS and Androidr
