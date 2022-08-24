@@ -16,8 +16,8 @@
 ![]() -->
 
 - 👋 Hi, I’m Roshan Mykoo (@MykooApplications)
-- 👀 I’m interested in ... iOS & Android Devlopment
-- 💻 I’m currently learning ... SwiftUI
+- 👀 I’m interested in ... iOS & Android Development
+- 💻 I’m currently learning ... Kotlin
 - 💡 I’m looking to collaborate on ... Mobile Apps, Websites, & Games!
 - 📫 How to reach me ... email: roshanjmykoo@gmail.com
 
