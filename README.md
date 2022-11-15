@@ -35,6 +35,11 @@ You can click the Preview link to take a look at your changes.
 <h1>Projects</h1>
 The following are listings are my public projects that are either open for coloboration or completely free for academic use.
 <h2>Simple SwiftUI Calculator</h2>
+<h2>Simple Kotlin Calculator</h2>
+<h2>RoSocial iOS</h2>
+<h2>RoSocial Android</h2>
+<h2>ValorantPedia</h2>
+<h2>iOS Camera Demo</h2>
 
 <!-- <h3>ASDF</h3>
 <h4>ASDF</h4>
