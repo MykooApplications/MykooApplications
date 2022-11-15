@@ -34,7 +34,9 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Projects</h1>
 The following are listings are my public projects that are either open for coloboration or completely free for academic use.
-<h3>Simple SwiftUI Calculator</h3>
+<h3> <a href="https://github.com/MykooApplications/Simple-Calc-SwiftUI">
+    Simple SwiftUI Calculator
+  </a> </h3>
 <h3>Simple Kotlin Calculator</h3>
 <h3>RoSocial iOS</h3>
 <h3>RoSocial Android</h3>
