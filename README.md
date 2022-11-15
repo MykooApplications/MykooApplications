@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Projects</h1>
-The following are listings are my public projects that are either open for coloboration or completely free for academic use.
+The following are listings are my public projects that are either open for coloboration or completely free for academic use. A full description of the project and it's collaborators are avaiablbe in each repo's README.
 <h3> <a href="https://github.com/MykooApplications/Simple-Calc-SwiftUI"> Simple SwiftUI Calculator </a> </h3>
 <h3> <a href="https://github.com/MykooApplications/Android-Kotlin-Calculator"> Simple Kotlin Calculator </a> </h3>
 <h3> <a href="https://github.com/MykooApplications/RoSocial"> RoSocial iOS </a> </h3>
