@@ -17,9 +17,10 @@
 ![]() -->
 
 - 👋 Hi, I’m Roshan Mykoo (@MykooApplications)
-- 👀 I’m interested in ... iOS & Android Development
-- 💻 I’m currently learning ... Kotlin
-- 💡 I’m looking to collaborate on ... Mobile Apps, Websites, & Games!
+- 👀 I’m interested in iOS & Android Development
+- 💻 I’m currently learning - Kotlin
+- I'm currently working on - a Camera App Project with tutorial
+- 💡 I’m looking to collaborate on Mobile Apps, Websites, & Games!
 - 📫 How to reach me ... email: roshanjmykoo@gmail.com
 
 
